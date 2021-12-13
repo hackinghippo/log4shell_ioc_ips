@@ -1,5 +1,5 @@
 # j4shell_ioc_ips
-big dump from known j4log/j4shell malicious ip adresses unique and sorted  updated every 10 minutes!
+big dump from known j4log/j4shell malicious ip adresses unique and sorted  update once a hour only if changes were made!
 
 
 
