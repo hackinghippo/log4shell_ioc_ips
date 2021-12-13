@@ -13,3 +13,6 @@ sources:
 - https://github.com/CronUp/Malware-IOCs/blob/main/2021-12-11_Log4Shell_Botnets
 - https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166
 - https://tweetfeed.live/search.html
+- https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/master/log4j.txt
+- https://raw.githubusercontent.com/CriticalPathSecurity/Zeek-Intelligence-Feeds/master/log4j_ip.intel
+- https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/master/log4j.txt
