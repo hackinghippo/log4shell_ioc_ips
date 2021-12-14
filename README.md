@@ -1,5 +1,6 @@
 # j4shell_ioc_ips
-big dump from known j4log/j4shell malicious ip adresses unique and sorted  update once a hour only if changes were made!
+big dump from known log4j/log4shell malicious ip adresses unique and sorted  update once a hour only if changes were made! (CVE-2021-44228)
+happy hunting
 
 
 
