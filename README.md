@@ -18,3 +18,4 @@ sources:
 - https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/master/log4j.txt
 - https://urlhaus.abuse.ch/browse/tag/log4j/
 - https://threatfox.abuse.ch/browse/tag/CVE-2021-44228/ ( and log4j)
+- https://github.com/threatmonit/Log4j-IOCs
