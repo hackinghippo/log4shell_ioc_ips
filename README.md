@@ -7,8 +7,8 @@ This script is parsing a lot of Source so this list maybe has a lot of false pos
 
 
 ## ToDo:
-- add Whitelist []
-- better regex exclude local ip adresses []
+- add Whitelist [ONGOING]
+- better regex exclude local ip adresses [X]
 - add support for domains []
 
 ## sources:
