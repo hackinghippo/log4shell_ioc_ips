@@ -2,16 +2,16 @@
 big dump from known log4j/log4shell malicious ip adresses unique and sorted  update once a hour only if changes were made! (CVE-2021-44228)
 happy hunting
 
-# disclaimer 
+## disclaimer 
 This script is parsing a lot of Source so this list maybe has a lot of false positives don't block all ips in your firewall!
 
 
-# ToDo:
+## ToDo:
 - add Whitelist []
 - better regex exclude local ip adresses []
 - add support for domains []
 
-sources:
+## sources:
 - https://gist.github.com/gnremy/c546c7911d5f876f263309d7161a7217
 - https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt
 - https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs
