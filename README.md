@@ -20,3 +20,7 @@ sources:
 - https://urlhaus.abuse.ch/browse/tag/log4j/
 - https://threatfox.abuse.ch/browse/tag/CVE-2021-44228/ ( and log4j)
 - https://github.com/threatmonit/Log4j-IOCs
+- https://raw.githubusercontent.com/eromang/researches/main/CVE-2021-44228/README.md
+- https://github.com/Humoud/log4j_payloads
+- https://gist.github.com/yt0ng/8a87f4328c8c6cde327406ef11e68726
+- https://github.com/LogRhythm-Labs/log4Shell
