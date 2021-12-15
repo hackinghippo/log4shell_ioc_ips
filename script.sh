@@ -66,6 +66,7 @@ if [[ $SIZEND != $SIZBEGIN  ]]; then
 
 	git add $DIR/stats.txt
 	git add $DIR/ips.txt
+	git add $DIR/script.sh
 	git commit -m "hourly update"
 	git push
 fi
