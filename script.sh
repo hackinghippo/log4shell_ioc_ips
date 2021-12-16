@@ -66,7 +66,9 @@ if [[ $SIZEND != $SIZBEGIN  ]]; then
 	LINECOUNT=$(wc -l ips.txt)
 	OUTPUT="${TIMEDATE} : ${LINECOUNT}"
 	echo "${OUTPUT} " >> $DIR/stats.txt 
-
+	
+	git pull
+	
 	git add $DIR/stats.txt
 	git add $DIR/ips.txt
 	git add $DIR/script.sh
