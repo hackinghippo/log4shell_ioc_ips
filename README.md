@@ -41,3 +41,4 @@ sources:
 - https://github.com/russelr46/IOC_log4j_apache
 - https://github.com/prodigyak/Log4j-Wireshark-IOC-filter
 - https://github.com/valtix-security/Log4j-Indicators-of-Compromise
+- https://github.com/curated-intel/Log4Shell-IOCs
