@@ -11,6 +11,7 @@ This script is parsing a lot of Source so this list maybe has a lot of false pos
 - better regex exclude local ip adresses [X]
 - add support for domains []
 
+
 ## sources:
 - https://gist.github.com/gnremy/c546c7911d5f876f263309d7161a7217
 - https://github.com/Akikazuu/Apache-Log4j-RCE-Attempt
@@ -31,3 +32,15 @@ This script is parsing a lot of Source so this list maybe has a lot of false pos
 - https://github.com/Humoud/log4j_payloads
 - https://gist.github.com/yt0ng/8a87f4328c8c6cde327406ef11e68726
 - https://github.com/LogRhythm-Labs/log4Shell
+- https://github.com/guardicode/CVE-2021-44228_IoCs
+- https://github.com/bengisugun/Log4j-IOC
+- https://github.com/shnoogie/log4j_ioc
+- https://github.com/vul-log/log4j_iocs
+- https://github.com/threatmonit/Log4j-IOCs
+- https://github.com/aojald/LOG4J_IOC
+- https://github.com/josephinetanadi/log4j-ioc-merge
+- https://github.com/russelr46/IOC_log4j_apache
+- https://github.com/prodigyak/Log4j-Wireshark-IOC-filter
+- https://github.com/valtix-security/Log4j-Indicators-of-Compromise
+- https://github.com/curated-intel/Log4Shell-IOCs
+- https://github.com/Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs
